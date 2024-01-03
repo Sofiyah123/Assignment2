@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(245 208 76);
+  width: 100%;
+  height: 100%;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 3rem auto;
+}
+.container {
+  width: 30%;
+  height: auto;
+  background-color: #fff;
+  border-radius: 15px;
+  box-shadow: rgb(11 8 5);
+  box-shadow: ;
+}
+.details{
+    opacity: 0.4;
+}
+.main-img {
+  width: 100%;
+  height: 14rem;
+}
+.learning {
+  width: 6rem;
+  height: 2rem;
+  /* text-align:center; */
+  border-radius: 4px;
+  /* text-align:center; */
+}
+.author-details {
+  display: inline;
+}
+.author-img {
+  border-radius: 50%;
+}
